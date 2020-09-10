@@ -16,9 +16,9 @@ Un sitio web se le ha filtrado 4 hash que representan estas contraseñas y su re
 el cual consiste en agregarle a la contraseña el siguiente salt ".-.s3gur1lab:-)"  sin comillas antes de generar el hash con md5, por otra parte se sabe que la contraseña que se han filtrado eran de 4 letras en minusculas. ¿Cuales son las contraseñas?
 
 hash:
-d46f28fd97ca6fe5aaab0f907227b12c
-c201f766abb974a2fce3093cbbdb42b7
-fee054093f9d3735142f5da1abb30681
-ea6f893319cc05683c828770bea3ce07
+* d46f28fd97ca6fe5aaab0f907227b12c
+* c201f766abb974a2fce3093cbbdb42b7
+* fee054093f9d3735142f5da1abb30681
+* ea6f893319cc05683c828770bea3ce07
 
 
